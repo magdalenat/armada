@@ -1,5 +1,6 @@
-(function($){
-  $(function(){
+(function ($) {
+
+  $(function () {
 
     $('.sidenav').sidenav();
     $('.parallax').parallax();
