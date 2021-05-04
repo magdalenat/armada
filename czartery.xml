@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<czartery xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<czarter>
+		<lp>1</lp>
+		<termin>29.5. - 2.6.2021</termin>
+		<antila_26>ZAREZERWOWANE</antila_26>
+		<pegaz_737>ZAREZERWOWANE</pegaz_737>
+	</czarter>
+	<czarter>
+		<lp>2</lp>
+		<termin>2.6. - 5.6.2021</termin>
+		<tango_720>127</tango_720>
+		<antila_26>ZAREZERWOWANE</antila_26>
+		<pegaz_737>ZAREZERWOWANE</pegaz_737>
+	</czarter>
+	<czarter>
+		<lp>3</lp>
+		<termin>5.6. - 12.6.2021</termin>
+		<antila_26>ZAREZERWOWANE</antila_26>
+		<pegaz_737>ZAREZERWOWANE</pegaz_737>
+	</czarter>
+		<czarter>
+		<lp>4</lp>
+		<termin>12.6. - 19.6.2021</termin>
+		<antila_26>ZAREZERWOWANE</antila_26>
+		<pegaz_737>ZAREZERWOWANE</pegaz_737>
+	</czarter>
+	<czarter>
+		<lp>5</lp>
+		<termin>19.6. - 26.6.2021</termin>
+		<antila_26>ZAREZERWOWANE</antila_26>
+		<pegaz_737>ZAREZERWOWANE</pegaz_737>
+	</czarter>
+	<czarter>
+		<lp>6</lp>
+		<termin>26.6. - 3.7.2021</termin>
+		<antila_26>ZAREZERWOWANE</antila_26>
+		<pegaz_737>ZAREZERWOWANE</pegaz_737>
+	</czarter>
+	<czarter>
+		<lp>7</lp>
+		<termin>3.7. - 10.7.2021</termin>
+		<antila_26>ZAREZERWOWANE</antila_26>
+		<pegaz_737>ZAREZERWOWANE</pegaz_737>
+	</czarter>
+	<czarter>
+		<lp>8</lp>
+		<termin>10.7. - 17.7.2021</termin>
+		<antila_26>ZAREZERWOWANE</antila_26>
+		<pegaz_737>300</pegaz_737>
+	</czarter>
+	<czarter>
+		<lp>9</lp>
+		<termin>17.7. - 24.7.2021</termin>
+		<antila_26>ZAREZERWOWANE</antila_26>
+		<pegaz_737>ZAREZERWOWANE</pegaz_737>
+	</czarter>
+	<czarter>
+		<lp>10</lp>
+		<termin>24.7. - 31.7.2021</termin>
+		<antila_26>ZAREZERWOWANE</antila_26>
+		<pegaz_737>ZAREZERWOWANE</pegaz_737>
+	</czarter>
+	<czarter>
+		<lp>11</lp>
+		<termin>31.7. - 7.8.2021</termin>
+		<antila_26>ZAREZERWOWANE</antila_26>
+		<pegaz_737>ZAREZERWOWANE</pegaz_737>
+	</czarter>
+	<czarter>
+		<lp>12</lp>
+		<termin>7.8. - 14.8.2021</termin>
+		<antila_26>ZAREZERWOWANE</antila_26>
+		<pegaz_737>300</pegaz_737>
+	</czarter>
+	<czarter>
+		<lp>13</lp>
+		<termin>14.8. - 21.8.2021</termin>
+		<antila_26>315</antila_26>
+		<pegaz_737>ZAREZERWOWANE</pegaz_737>
+	</czarter>
+	<czarter>
+		<lp>14</lp>
+		<termin>21.8. - 28.8.2021</termin>
+		<antila_26>ZAREZERWOWANE</antila_26>
+		<pegaz_737>270</pegaz_737>
+	</czarter>
+	<czarter>
+		<lp>14</lp>
+		<termin>28.8. - 4.9.2021</termin>
+		<antila_26>315</antila_26>
+		<pegaz_737>270</pegaz_737>
+	</czarter>
+
+</czartery>
